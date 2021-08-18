@@ -1,0 +1,64 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Incoming Software Engineer Intern
+# your company information
+company:
+  name: Microsoft
+  url: "https://www.microsoft.com/en-in"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/MiHarsh CV - Google Docs.pdf"
+
+# a summary about you
+
+summary: "I am an Open Source Enthusiast, a Fullstack developer and a Machine Learning Enthusiast, who loves to transform ideas into reality using code.
+          I'm currently in my pre-final year, pursuing B.Tech in Electronics and Communication Engineering at IIT(ISM) Dhanbad.
+          I like to learn about new technologies, create mini projects, participate in hackathons. 
+          I love to sing in my spare time :)"
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/MiHarsh"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/harsh-mishra-5384b11a0/"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/MiHarsh26/"
+- name: Gmail
+  icon: "fab fa-google"
+  url: "mailto:harshm17172612@gmail.com"
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/_miharsh/"
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/miharsh26"
+  
+
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communications
+  percentage: 80
+  color: pink

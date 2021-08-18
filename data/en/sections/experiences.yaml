@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Google Summer Of Code
+    url: "https://summerofcode.withgoogle.com/"
+    location: Remote
+    # company overview
+    overview: Google Summer of Code is a global program focused on bringing more student developers into open source software development. Students work with an open source organization on a 10 week programming project during their break from school.
+  positions:
+  - designation: Student Developer
+    start: June 2021
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    end: Aug 2021
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Improve user experience, and enable user personalisation.
+    - Design features such as hide/unhide, report, fact checker.
+    - Automate CI/CD tests, deploy APIs.
+    - Enhance Fake News Detection API. 
+
+- company:
+    name: Microsoft India
+    url: "https://www.microsoft.com/en-in"
+    location: Remote
+    overview: Microsoft is a leading global vendor of computer software; hardware for computer, mobile and gaming systems; and cloud services.
+  positions:
+  - designation: Mentee
+    start: June 2021
+    end: July 2021
+    responsibilities:
+    - Implement Video Chat App. 
+    - Implemented features such as Login/Dashboard, messaging, instant meeting, screen sharing, screen recording, admit/deny users.
+    - Implemented custom features such as room creation, link sharing, schedule/join meeting. 
+    - Implemented Have-a-break polling feature.
+
+- company:
+    name: UiT, The Arctic University of Norway
+    url: "https://en.uit.no/"
+    location: Remote
+    
+  positions:
+  - designation: Student Researcher
+    start: Aug 2020
+    end: Nov 2020
+    responsibilities:
+    - Propose an approach for efficient training of Autonomous Vehicle motion prediction models.
+    - Proposed work beat 904 submissions by using only 10% of the total dataset.

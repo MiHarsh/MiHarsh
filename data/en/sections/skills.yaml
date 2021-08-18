@@ -1,0 +1,28 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Languages
+  # logo: "/images/sections/skills/kubernetes.png"
+  summary: "Python, Javascript, C/C++"
+  # url: "https://kubernetes.io/"
+
+- name: Machine Learning
+  # logo: "/images/sections/skills/go.png"
+  summary: "Computer Vision, NLP, Neural Networks"
+  # url: "https://golang.org/"
+
+
+- name: Development
+  # logo: "/images/sections/skills/kubernetes.png"
+  summary: "Flask, NodeJs, SQL, Puppeteer, Socketio, WebRTC, Firebase, DynamoDB, MongoDb, Pytorch"
+

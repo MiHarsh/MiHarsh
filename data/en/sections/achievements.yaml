@@ -1,0 +1,19 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: Kaggle Expert
+- title: Secured 2nd Rank in KDD Fake News Detection (Microsoft), Kaggle.
+- title: Secured Bronze Medal in Inter IIT-Tech Meet 2021.
+- title: Secured 6th Rank in SIIM-ISIC Melanoma Classification Competition, Kaggle.
+- title: Secured 31st Rank in Lyft Autonomous Vehicle motion prediction.
+- title: Secured 138th Rank in MOA competition Kaggle.
+
