@@ -25,7 +25,7 @@
 
 <img align="right" src="https://imgur.com/UFae1Hl.gif"/>
 
-:smiley: **A Junior and a Developer** 
+:smiley: **A Senior and a Developer** 
 
 👨‍🎓 Pursuing B.Tech in Electronics and Communication Engineering from [**IIT (ISM) Dhanbad**](https://iitism.ac.in/) 
 
