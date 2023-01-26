@@ -31,9 +31,10 @@
 
 ### About me :eyes:
 
-- :dart: Software Developer | Machine learning | Deep learning | Computer Vision | NLP | Web Developer
+- :dart: Software Developer | Machine learning | Deep learning | Computer Vision | NLP | Web Developer | Chrome Extension
 - :hatching_chick: [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC) 2021 - [AOSSIE](https://aossie.gitlab.io/)
-- :hatching_chick: Incoming SDE Intern (2022) at [Microsoft](https://www.microsoft.com/en-in)
+- :hatching_chick: Upcoming SDE (2023) at [Microsoft](https://www.microsoft.com/en-in)
+- :hatching_chick: SDE Intern (2022) at [Microsoft](https://www.microsoft.com/en-in)
 - :hatching_chick: Kaggle Competitions Expert
 - :heart: Love to code
 - :e-mail: Ask me about anything, [emails](mailto:harshm17172612@gmail.com) are :heart:
